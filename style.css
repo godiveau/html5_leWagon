@@ -1,0 +1,85 @@
+/* style.css */
+body{
+  margin: 0px;
+  color: white;
+  background: rgb(245,245,245);
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  color: white;
+  font-family: 'Rock Salt', cursive;
+  font-size: 80px;
+}
+p{
+  font-size: 18px;
+  line-height: 20px;
+}
+
+
+#head {
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: white;
+  background: url("http://lorempixel.com/1920/600/nightlife"); 
+
+}
+
+.quick {
+  padding: 40px;
+  font-weight: 300;
+}
+
+
+.quick img {
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  font-size: 30px;
+}
+
+#footer a {
+  color: lightgrey;
+}
+#footer a:hover {
+  color: white;
+}
+
+.cool {
+  background-color: #C9302C;
+}
+
+PRACTICE (2)
+
+    Change the color of the texts in the <body> to black
+    Change the size of the text paragraphs to 16px
+    Change the <h1> color. Use Colorzilla to pick from another website
+
+PRACTICE (2)
+
+    Link Open-Sans and Lobster Google fonts in your <head>
+    Use Lobster font-family for your <h1>
+    Use Open-Sans font-family for all the other texts of your <body>
+    You can identify any web font with Fontface Ninja
+
+Div and box model
+Real life...
+
+... is made of <div>
+
+Name your tags
+How do you style only the logo?
+
+Fontawesome
+
+    A font of icons!
+    A font == no need to resize icons or change their color, it can be made with CSS
+    VERY usefull for utilitary icons (social networks, upload, settings, mail, etc..)
+
+5 - 18
