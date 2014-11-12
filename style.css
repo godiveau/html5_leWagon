@@ -15,6 +15,10 @@ p{
   line-height: 20px;
 }
 
+h2{
+  font-size: 15px;
+  line-height: 20px;
+}
 
 #head {
   text-align: center;
@@ -41,11 +45,11 @@ p{
   padding: 30px;
   background: rgb(30, 30, 30);
   color: lightgrey;
-  font-size: 30px;
+  font-size: 52px;
 }
 
 #footer a {
-  color: lightgrey;
+  color: #c0392b;
 }
 #footer a:hover {
   color: white;
@@ -54,6 +58,11 @@ p{
 .cool {
   background-color: #C9302C;
 }
+
+.list-inline{
+  display: inline-block;
+}
+
 
 PRACTICE (2)
 
